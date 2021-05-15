@@ -5,7 +5,7 @@ A guide to available tools, components, patterns, and platforms for developing a
 This list is based on the [Ethereum Developer Tools List](https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/README.md) that was spurred by product managers at ConsenSys who saw a need for better sharing of tools, development patterns, and components amongst both new and experienced blockchain developers.
 
 This resource is meant to be focused on developer tools, but the repo also includes:
-* [Ethereum Ecosystem Resources](EcosystemResources.md) for useful DApps, educational resources, wallets, and services.
+* [Celo Ecosystem Resources](EcosystemResources.md) for useful DApps, educational resources, wallets, and services.
 
 ## Contributions are welcome!
 
